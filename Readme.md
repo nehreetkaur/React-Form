@@ -58,7 +58,7 @@ React
 ![SCREENSHOT](images/form1.png)
 
 ![SCREENSHOT](images/form2.png)
-![My-CodeAcademy-Certficate](images/react.png)
+![My-CodeAcademy-Certficate](images/certificatereact.png)
 
 
 
