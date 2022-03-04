@@ -51,9 +51,9 @@ React
 
 
 # RESOURCES-REFERRED
-[Tutorial](https://www.youtube.com/watch?v=B3pmT7Cpi24&t=303s)
+[Tutorial](https://www.youtube.com/watch?v=EYpdEYK25Dc)
 
-[MVC](https://www.youtube.com/watch?v=sSLGP-_2gOI)
+[BasicsOfReact](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 
 
@@ -70,4 +70,4 @@ React
 [GIT-HUB](https://github.com/nehreetkaur/React-Form)
 
 # GIT_HUB-Deployed-Link
-[GIT-HUB](https://nehreetkaur.github.io/Javascript-game/)
+[GIT-HUB]()
